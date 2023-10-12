@@ -1,4 +1,4 @@
-# Termux-Games
+# Termux-Games mini
 <strong><u>Play Games on Termux</u></strong> 🎮<br>
 
 <b>Games is a Script where you can find all The Games that Are available for Termux.</b><br> 
@@ -7,34 +7,33 @@
 <b>This Script is not complete yet, We are still working on it so We will add more games in the Future.</b><br>
 
 ## Install Games 📲 :
-```pkg i git -y```
+```pkg update && upgrade```
 <br>
-```git clone https://github.com/Err0r-ICA/Games/```
+```pkg install git -y```
 <br>
-```cd Games```
+```git clone https://github.com/Unlimited-Crack-You/Game-Trx```
+<br>
+```cd Game-Trx```
 <br>
 ```chmod +x *```
 <br>
-```bash install sh ; bash Games```
+```bash install sh```
+<br>
+```bash Games```
 <br>
 
 ## Screenshot 
-![Screenshot](https://i.postimg.cc/sjyW16XV/Screenshot-20200425-141114-Termux.jpg) 
+![Screenshot](https://i.ibb.co/s5YTHpw/Screenshot-2023-10-12-08-31-59-19.jpg) 
 
 ### My Accounts
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [GIT HUB](https://github.com/Unlimited-Crack-You)
+* 
+* [TELEGRAM](https://t.me/purwokerto_malware_cyber)
 
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+* [FACEBOOK](https://www.facebook.com/profile.php?id=61551681957732)
 
-* [INSTAGRAM](https://instagram.com/termux_hacking)
-
-<p align="center">
-<a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
-<a href="https://github.com/Err0r-ICA/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/Err0r-ICA/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/Err0r-ICA/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+* [YOU TUBE](https://www.youtube.com/@from-system-comunity)
 
 [![Build-passing](https://img.shields.io/badge/build-passing-red.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Stars](https://img.shields.io/open-vsx/stars/Redhat/Java.svg?style=plastic&color=orange)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Coverage](https://img.shields.io/azure-devops/coverage/Swellaby/Opensource/25?color=yellow&style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
