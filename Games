@@ -1,0 +1,255 @@
+#!/bn/bash
+
+# Script UCH 2009
+# Nomer Admin 085600685685
+# TOOLS FROM UCH 2009
+# CANNOT COPY CODE NGOTAK TOLOL 
+#KAYA GAK SEKOLAH AJING TOD
+#TOOLS VERSI 1.0 DI BUAT TANGGAL 25 AGUSTUS 2023
+#version 1.0
+
+# Color Code
+
+#SCRIPT FOR TERMUX
+
+b='\033[1m'
+u='\033[4m'
+bl='\E[30m'
+r='\E[31m'
+g='\E[32m'
+bu='\E[34m'
+m='\E[35m'
+c='\E[36m'
+w='\E[37m'
+endc='\E[0m'
+enda='\033[0m'
+blue='\e[1;34m'
+cyan='\e[1;36m'
+red='\e[1;31m'
+
+RED="$(printf '\033[31m')"  
+GREEN="$(printf '\033[32m')"  
+ORANGE="$(printf '\033[33m')"  
+BLUE="$(printf '\033[34m')"
+MAGENTA="$(printf '\033[35m')"  
+CYAN="$(printf '\033[36m')"  
+WHITE="$(printf '\033[37m')" 
+BLACK="$(printf '\033[30m')"
+REDBG="$(printf '\033[41m')"  
+GREENBG="$(printf '\033[42m')"  
+ORANGEBG="$(printf '\033[43m')"  
+BLUEBG="$(printf '\033[44m')"
+MAGENTABG="$(printf '\033[45m')"  
+CYANBG="$(printf '\033[46m')"  
+WHITEBG="$(printf '\033[47m')" 
+BLACKBG="$(printf '\033[40m')"
+DEFAULT_FG="$(printf '\033[39m')"  
+DEFAULT_BG="$(printf '\033[49m') "
+
+clear
+
+clear
+n=1
+while  (($n < 3))
+do
+clear
+
+echo
+echo
+echo "   ------------------------------------------------------------" | lolcat
+echo ${WHITE}"   ╔╦╗ ╔═╗ ╦═╗ ╔╦╗ ╦ ╦ ═╗ ╦  ╔═╗ ╔═╗ ╔╦╗ ╔═╗     ${RED}████████████     " 
+echo ${WHITE}"    ║  ║╣  ╠╦╝ ║║║ ║ ║ ╔╩╦╝  ║ ╦ ╠═╣ ║║║ ║╣      ${WHITE}████████████      "
+echo ${WHITE}"    ╩  ╚═╝ ╩╚═ ╩┈╩ ╚═╝ ╩ ╚═  ╚═╝ ╩┈╩ ╩┈╩ ╚═╝      ${WHITE}INDONEISA " 
+echo "   ------------------------------------------------------------" | lolcat
+echo "   Author  : ./B7"
+echo "   GitHub  : https://github.com/Unlimited-Crack-You"
+echo "   Version : Versi 0.5"
+sleep 1
+echo " "
+echo "   ${WHITE}▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒     ${WHITE}╭──────────────────────────────────────────────────╮"
+echo "   ${WHITE}▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒     │        Kata kata Hari ini dan untuk esok         │"
+echo "   ▒▒${RED}█${WHITE}▒▒▒▄██████████▄▒▒▒▒     │                                                  │"
+echo "   ▒${RED}█▐${WHITE}▒▒▒████████████▒▒▒▒     │                Semua yang pergi                  │" 
+echo "   ▒${RED}▌▐${WHITE}▒▒██▄▀██████▀▄██▒▒▒     │               pasti akan kembali.                │" 
+echo "   ${RED}▐┼▐${WHITE}▒▒██▄▄▄▄██▄▄▄▄██▒▒▒     │         Hanya wujudnya saja yang berbeda         │"
+echo "   ${RED}▐┼▐${WHITE}▒▒██████████████▒▒▒     │            Beberapa berbentuk fisik,             │" 
+echo "   ${RED}▐▄▐${WHITE}████─▀▐▐▀█─█─▌▐██▄▒     │               beberapa lagi hanya                │" 
+echo "   ▒▒${RED}█${WHITE}████──────────▐███▌     │        berbentuk kenangan” – Fiersa Besari       │" 
+echo "   ▒▒${RED}█${WHITE}▀▀██▄█─▄───▐─▄███▀▒     │                                                  │"
+echo "   ▒▒${RED}█${WHITE}▒▒███████▄██████▒▒▒     │    ---------->  Exit Ketik ( KL ) <----------    │"
+echo "   ▒▒▒▒▒██████████████▒▒▒     ╰──────────────────────────────────────────────────╯" 
+echo "   ▒▒▒▒▒█████████▐▌██▌▒▒▒     ╭──────────────────────────────────────────────────╮"
+echo "   ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒     │${BLUE}[${ORANGE}F1${BLUE}]${WHITE}        TOOLS BY UC-09 FROM TOOLS V1.5        │"
+echo "   ▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒     │${BLUE}[${ORANGE}F2${BLUE}]${WHITE}           TOOLS SPAM BY UC-09 V0.1           │"
+echo "   ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒     │${BLUE}[${ORANGE}F3${BLUE}]${WHITE}                 GRUP WHASTAPP                │"
+echo "   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒     ╰──────────────────────────────────────────────────╯" 
+echo " "
+echo "  GAME YANG DAPAT DI MAINKAN SILAKAN MENIKMATINYA "
+echo " "
+echo -e "${BLUE}[${ORANGE}01${BLUE}]${WHITE} Moon-buggy "
+echo -e "${BLUE}[${ORANGE}02${BLUE}]${WHITE} Tetris "
+echo -e "${BLUE}[${ORANGE}03${BLUE}]${WHITE} Pacman "
+echo -e "${BLUE}[${ORANGE}04${BLUE}]${WHITE} Space- Invaders "
+echo -e "${BLUE}[${ORANGE}05${BLUE}]${WHITE} Snake-Game "
+echo -e "${BLUE}[${ORANGE}06${BLUE}]${WHITE} Greed "
+echo -e "${BLUE}[${ORANGE}07${BLUE}]${WHITE} Nethack "
+echo -e "${BLUE}[${ORANGE}08${BLUE}]${WHITE} Hangman "
+echo -e "${BLUE}[${ORANGE}09${BLUE}]${WHITE} 2048 "
+echo -e "${BLUE}[${ORANGE}10${BLUE}]${WHITE} Sudoku "
+echo -e "${BLUE}[${ORANGE}00${BLUE}]${WHITE} Enable Arrow Keys "
+echo -e "${BLUE}[${ORANGE}AB${BLUE}]${WHITE} About us "
+echo -e "${BLUE}[${ORANGE}KL${BLUE}]${WHITE} EXIT "
+echo ""
+sleep 1
+echo -e "Enter a Choice : \c" | lolcat
+read option
+case $option in
+"01")
+echo ""
+echo "Press q on Your Keyboard to Exit This Game " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+moon-buggy
+;;
+"02")
+echo ""
+echo "Press CTRL + c to Exit This Game " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+bastet
+;;
+"03")
+echo ""
+echo "Press q on Your Keyboard to Exit This Game " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+pacman
+sleep 2
+;;
+"04")
+echo ""
+echo "Press q on Your Keyboard to Exit This Game " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+nInvaders
+;;
+"05")
+echo ""
+echo "Press q on Your Keyboard to Exit This Game " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+nsnake
+sleep 2
+;;
+"06")
+echo ""
+echo "Press q on Your Keyboard And Then y to Exit This Game...If This Game Crash, You Can Exit The Session (It's a Bug in This Game.) " | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+greed
+;;
+"07")
+echo ""
+echo "You Can Press CTRL + c And Then Give The Answer of Asked Question to Quit The Games." | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+nethack
+;;
+"08")
+echo ""
+cd HangmanPy && python hangman.py
+echo "You Can Play The Game And When You Win or Lose The Game You Will be Asked to Quit The Game or Replay." | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+;;
+"09")
+echo ""
+echo "Press q and Then y to Exit The Game." | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+./2048
+;;
+"10")
+echo ""
+echo "Press Capital Q to Exit The Game." | lolcat -a
+echo ""
+read -p "Press [ENTER] to Start The Game: " | lolcat -a
+nudoku
+;;
+"KL")clear
+echo ""
+echo "╔═╗ ╔═╗ ╦┈┈ ╔═╗ ╔╦╗ ╔═╗ ╔╦╗ ┈ ╔╦╗ ╦ ╔╗╔ ╔═╗ ╔═╗ ╔═╗ ╦┈┈  "
+echo "╚═╗ ║╣┈ ║┈┈ ╠═╣ ║║║ ╠═╣ ┈║┈ ┈ ┈║┈ ║ ║║║ ║┈╦ ║┈╦ ╠═╣ ║┈┈  "
+echo "╚═╝ ╚═╝ ╩═╝ ╩┈╩ ╩┈╩ ╩┈╩ ┈╩┈ ┈ ┈╩┈ ╩ ╝╚╝ ╚═╝ ╚═╝ ╩┈╩ ╩═╝  "
+echo ""
+break
+;;
+"AB")
+clear
+echo ""
+echo " ABOUT ME "
+echo ""
+echo "        ╚══╗ ╔═╔════╝" | lolcat -as 100
+echo "      ╚═╦═╗╠═╩═╩╗╔═╦═╗ " | lolcat -as 100
+echo "      ░░║▒╠╣▒▒▒▒╠╣▒║▒║    P.M.C " | lolcat -as 100
+echo "      ╔═╩═╝╠═╦═╦╝╚═╩═╝    " | lolcat | lolcat -as 100
+echo "        ╔══╝ ╚═╚════╗      " | lolcat | lolcat -as 100
+echo " "
+echo "Since : 2009"
+echo "Copyright ©2009"
+echo " "
+echo "exploits tools : https://exploits.my.id/_ _by eillottophellia"
+echo "Github         : https://github.com/Unlimited-Crack-You"
+echo "You Tube       : https://www.youtube.com/@from-system-comunity"
+echo "Tele Grup      : https://t.me/purwokerto_malware_cyber"
+echo "Facebook       : https://www.facebook.com/profile.php?id=61551681957732"
+echo " "
+echo "we are not the disease but the one who gives it 👾 "
+echo ""
+echo -e "\033[1;91m"
+read -p "Press [ENTER] to continue: "
+;;
+"00")
+echo ""
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings
+echo -e "\033[1;93mPlease Restart to Auto-adjust the Keys \033[1;92m"
+echo ""
+read -p "Press [ENTER] to Continue or You Can Restart the Terminal (It's Recommended):"
+				;;
+				01 )
+				clear
+				pkg upgrade && pkg update
+pkg install git
+pkg install python
+pkg install python2
+pkg install neofetch
+rm -rf Fromv1-2009-UCH
+git clone https://github.com/Unlimited-Crack-You/Fromv1-2009-UCH
+cd Fromv1-2009-UCH
+bash update.sh
+
+;;
+
+				02)
+				clear
+				pkg upgrade && pkg update
+pkg install git
+pkg install python
+pkg install python2
+pkg install neofetch
+rm -rf Spam-FromV1
+				git clone https://github.com/Unlimited-Crack-You/Spam-FromV1
+				cd Spam-FromV1
+				bash install.sh
+				;;
+				03 )
+				am start -a android.intent.action.VIEW https://chat.whatsapp.com/LqvqjLZdBgt34lxWRrvi5e
+				
+				;;
+*)
+echo ""
+echo -e "\033[1;91mInvalid Choice, Try Again !!\033[1;92m"
+echo ""
+read -p "Press [ENTER] to continue: "
+esac
+done
