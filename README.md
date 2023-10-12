@@ -11,6 +11,8 @@
 <br>
 ```pkg install git -y```
 <br>
+```rm -rf Game-Trx```
+<br>
 ```git clone https://github.com/Unlimited-Crack-You/Game-Trx```
 <br>
 ```cd Game-Trx```
